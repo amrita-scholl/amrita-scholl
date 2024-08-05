@@ -1,7 +1,6 @@
 ## Hello, I'm FullStack Developer 👋
 
-### Core Expertise : 
-### Java, Python , Microservices, AWS , Kafka , Data Engineering 
+#### Core Expertise -->  Java, Python , Microservices, AWS , Kafka , Data Engineering 
 
 <!--
 **amrita-scholl/amrita-scholl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
