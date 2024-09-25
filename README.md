@@ -1,6 +1,6 @@
 ## Hello, I'm FullStack Developer 👋
 
-### Core Expertise ->  Java, Python , Microservices, AWS , Kafka , Data Engineering 
+### Core Expertise ->  Java, Python , Microservices, AWS , GCP, Kafka , Data Engineering , Angular/ReactJS , Spring etc..
 ### UpSkilling to ->  Python, GenAI , ML, AL , Neo4j , Vectore Databases and how to delpoying solutions on cloud.
 
 <!--
