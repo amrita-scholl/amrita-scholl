@@ -11,7 +11,7 @@
 - 🌱 Currently learning Machin Learning Models.
 - 💬 Ask me about Java, Python , Microservices, AWS , Kafka , Data Engineering.
 - 📫 How to reach me: amrita.scholl@gmail.com
-- 📄 Know about my experiences https://amrita-scholl.github.io/amrita-portfolio/static/media/amrita_singh.c613d5cd083228257ee1.pdf
+- 📄 Know about my experiences https://amrita-scholl.github.io/amrita-portfolio/static/media/amrita_singh.3c4bc763a46cd2d9f414.pdf
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
