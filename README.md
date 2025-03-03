@@ -1,7 +1,7 @@
 ## Hello, I'm FullStack Developer 👋
 
-### Core Expertise ->  Java, Python , Microservices, AWS , GCP, Kafka , Data Engineering , Angular/ReactJS , Spring etc..
-### UpSkilling to ->  Python, GenAI , ML, AL , Neo4j , Vectore Databases and how to delpoying solutions on cloud.
+### Core Expertise ->  Java, Python , Microservices, Spring , AWS , GCP, Kafka , Data Engineering , Angular/ReactJS  etc..
+### UpSkilling to ->  Python, GenAI , ML, AI , Neo4j , Vectore Databases and how to delpoying solutions on cloud.
 
 <!--
 **amrita-scholl/amrita-scholl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
